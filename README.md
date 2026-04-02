@@ -1,2 +1,2 @@
-# James-Okorie
-My Personal Repository
+# About me
+An embedded systems and robotics engineer in training with an MPhil in Physics (Embedded Systems and Automation) in progress, experienced in Arduino/ESP32‑based prototyping, IoT systems, and sensor integration for smart agriculture and automation projects. I have contributed to solutions such as a solar‑powered thermal-imaging system for Fall Armyworm detection, Arduino‑based fruit-defect detection, soil‑parameter monitoring, low‑cost hatching systems, and automated titration setups, taking projects from concept through hardware design, firmware development, and data acquisition to user‑oriented outputs. I am particularly motivated by using physics, IoT, and robotics to build scalable, low‑cost tools for learning, precision farming, and innovation in African contexts.
